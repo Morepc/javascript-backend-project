@@ -1,0 +1,19 @@
+{
+  "name": "backend-javascript",
+  "version": "1.0.0",
+  "description": "javascript backend project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Poonam More",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
